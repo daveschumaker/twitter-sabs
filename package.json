@@ -1,0 +1,22 @@
+{
+  "name": "twitter-sabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "automation",
+    "bots",
+    "tweeting",
+    "twitter"
+  ],
+  "author": "Dave Schumaker <dave@dave.ly>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "twit": "^2.2.11"
+  }
+}
